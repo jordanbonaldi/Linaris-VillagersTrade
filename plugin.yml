@@ -1,0 +1,7 @@
+main: net.theuniverscraft.VillagersTrades.VillagersTrades
+name: VillagersTrades
+version: 0.1
+commands:
+  villager:
+    description: commande administateur pour VillagersTrades
+    usage: /<command> <nom du villageoi> <addinvincible / supinvincible / delete>
